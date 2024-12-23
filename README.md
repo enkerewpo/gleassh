@@ -1,8 +1,8 @@
 # Gleassh
 
-wheatfox
+wheatfox 2024
 
 ## Roadmap
 
-- [] SSH client implementation `glssh`(working in progress)
-- [] SSH server implementation `
+- [ ] SSH client implementation `glssh` (working in progress)
+- [ ] ~~SSH server implementation `glsshd`~~
